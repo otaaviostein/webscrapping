@@ -1,0 +1,23 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "description": "webscrapping using puppeteer",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otaaviostein/webscrapping.git"
+  },
+  "author": "Otávio Stein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otaaviostein/webscrapping/issues"
+  },
+  "homepage": "https://github.com/otaaviostein/webscrapping#readme"
+}
